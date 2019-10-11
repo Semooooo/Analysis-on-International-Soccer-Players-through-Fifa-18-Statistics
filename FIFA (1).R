@@ -17,7 +17,7 @@ library(rworldmap)
 
 # Importing the dataset 
 
-setwd("C:/Pushpal/Study/University at Buffalo/Statistical Data Mining II/fifa-18-demo-player-dataset")
+setwd("C:/Priyesh/fifa-18-demo-player-dataset")
 dataset = read.csv("CompleteDataset.csv")
 setDT(dataset) # Coercing the dataset 
 
