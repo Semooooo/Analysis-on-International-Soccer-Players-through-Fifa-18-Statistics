@@ -1,6 +1,6 @@
 # Analysis-on-International-Soccer-Players-through-Fifa-18-Statistics
 
-![Image of Plot](images/Slide1.png)
+![Image of Plot](images/Slide1.PNG)
 ![Image of Plot](images/Slide2.png)
 ![Image of Plot](images/Slide3.png)
 ![Image of Plot](images/Slide4.png)
